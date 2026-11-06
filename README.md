@@ -32,7 +32,7 @@ A clean, documented REST API service over the **Urja Meter Ops** web portal — 
 ### Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/urja-ops-gateway.git
+git clone https://github.com/KRIWAL21/urja-ops-gateway.git
 cd urja-ops-gateway
 pip install -r requirements.txt
 ```
